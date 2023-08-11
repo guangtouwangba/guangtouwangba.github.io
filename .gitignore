@@ -4,4 +4,7 @@ node_modules
 package.json
 package-lock.json
 .env
-public
+*.hugo*.lock
+resources/
+public/
+config/development/
