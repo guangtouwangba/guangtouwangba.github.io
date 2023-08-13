@@ -111,4 +111,4 @@ minify:
 
 css: css
 js: js
-images: imgs
+images: static/imgs
