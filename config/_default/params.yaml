@@ -36,9 +36,9 @@ keywords: Hugo,NexT,主题,简单,强大
 # 不同尺寸站点图标
 # Different size of favicon
 favicon:
-  icon: /imgs/icons/jienigui.png
-  small: /imgs/icons/jienigui.png
-  medium: /imgs/icons/jienigui.png
+  icon: /imgs/jienigui.png
+  small: /imgs/jienigui.png
+  medium: /imgs/jienigui.png
   appleTouchIcon: /imgs/icons/apple_touch_icon_next.png
 
 # 自定义 Logo （目前只支持 Mist 页面模式）
@@ -487,7 +487,7 @@ githubBanner:
   enable: true
   # 你的 Github 仓库地址
   # Your repository url on Github.
-  permalink: https://github.com/hugo-next
+  permalink: https://github.com/guangtouwangba
   # 关注说明
   # Show this title when cursor move on.
   title: Follow me on GitHub
