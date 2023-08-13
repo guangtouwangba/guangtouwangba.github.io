@@ -2,7 +2,7 @@
 layout:   page
 title: 代码定义云基础架构 - 认识基础设施即代码(IaC)
 tag: devops
-category: Terraform
+category: Devops
 order: 1
 author:      "aqiu"
 image: ''
