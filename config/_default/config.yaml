@@ -108,4 +108,7 @@ enableRobotsTXT: true
 # Compress all files when output
 minify:
   minifyOutput: true
-  
+
+css: css
+js: js
+images: imgs
