@@ -13,9 +13,7 @@ date: 2024-01-01
 - ## HashMap的特性是什么
     - 基本用过`hashmap`的都会了解到，一个`hashmap`具备以下特性
         - 快速查找： `O(1)` 时间复杂的查找效率
-          logseq.order-list-type:: number
         - 无需排序： `hashmap`中的元素不存在顺序
-          logseq.order-list-type:: number
         - 额外开销：为了存储更多信息，可能会带来一些额外的开销
 - ## 设计HashMap需要考虑哪些问题
     - ### Hash Function
