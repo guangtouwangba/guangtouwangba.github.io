@@ -1,13 +1,9 @@
 ---
 layout:   page
-title: 使用viper来管理你的配置
-tag: golang
-category: Kubernetes
+title: "使用viper来管理你的配置"
 order: 1
 author:      "aqiu"
-image: ''
 published: true
-summary: ""
 categories: ['golang']
 date: 2024-3-31
 ---
