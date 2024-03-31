@@ -1,15 +1,18 @@
 ---
 layout:   page
-title: "使用viper来管理你的配置"
+title:       "使用viper来管理你的配置"
+subtitle:    ""
+description: ""
 order: 1
-author:      "aqiu"
-published: true
-categories: ['golang']
 date: 2024-3-31
+author:   "aiqiu"
+#image:       "https://golearning.oss-cn-shanghai.aliyuncs.com/202304161638319.png"
+categories:  ["Golang"]
+published: true
 ---
 
-使用viper来管理你的配置
-什么是viper
+# 使用viper来管理你的配置
+## 什么是viper
 Viper 是适用于 Go 应用程序（包括 12 因素应用程序）的完整配置解决方案。它设计用于在应用程序中工作，可以处理所有类型的配置需求和格式。它支持
 * 设置配置默认值
 * 读取 JSON、TOML、YAML、HCL、envfile 和 Java 属性配置文件
@@ -17,7 +20,7 @@ Viper 是适用于 Go 应用程序（包括 12 因素应用程序）的完整配
 * 从远程配置系统（etcd 或 Consul）读取，并监测修改
 * 从命令行标志读取环境变量
 
-如何使用viper
+## 如何使用viper
 1. 首先引入依赖
 ```shell
 go get -u github.com/spf13/viper
