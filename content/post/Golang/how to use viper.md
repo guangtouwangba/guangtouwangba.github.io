@@ -8,6 +8,7 @@ date: 2024-3-31
 author:   "aiqiu"
 #image:       "https://golearning.oss-cn-shanghai.aliyuncs.com/202304161638319.png"
 categories:  ["Golang"]
+summary: "Viper 是适用于 Go 应用程序（包括 12 因素应用程序）的完整配置解决方案。它设计用于在应用程序中工作，可以处理所有类型的配置需求和格式。它支持"
 published: true
 ---
 
