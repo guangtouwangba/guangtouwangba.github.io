@@ -4,7 +4,7 @@ title:       "使用viper来管理你的配置"
 subtitle:    ""
 description: ""
 order: 1
-date: 2024-3-31
+date: 2024-03-31
 author:   "aiqiu"
 #image:       "https://golearning.oss-cn-shanghai.aliyuncs.com/202304161638319.png"
 categories:  ["Golang"]
